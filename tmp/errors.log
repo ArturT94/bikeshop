@@ -1,0 +1,355 @@
+[2022-01-30 00:48:09] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-30 10:55:47] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-30 11:47:37] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-30 13:13:02] Текст Ошибки: syntax error, unexpected '}'
+Файл: C:\OpenServer\domains\bike-shop\app\models\Breadcrumbs.php
+Линия: 23
+===========
+
+[2022-01-30 13:59:21] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-30 13:59:25] Текст Ошибки: Контроллер app\controllers\CategoryController не найден
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-01-31 10:31:16] Текст Ошибки: Какая то ошибка
+Файл: C:\OpenServer\domains\bike-shop\app\views\Main\index.php
+Линия: 2
+===========
+
+[2022-01-31 16:17:21] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-31 16:43:49] Текст Ошибки: Контроллер app\controllers\CategoryController не найден
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-01-31 17:07:33] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-31 17:07:56] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-01-31 17:13:56] Текст Ошибки: [] operator not supported for strings
+Файл: C:\OpenServer\domains\bike-shop\app\models\Product.php
+Линия: 16
+===========
+
+[2022-02-01 22:24:35] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-01 23:05:48] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 12:36:52] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 13:23:15] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 13:23:59] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 13:34:20] Текст Ошибки: syntax error, unexpected '$products' (T_VARIABLE)
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 151
+===========
+
+[2022-02-02 13:42:17] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 13:59:31] Текст Ошибки: syntax error, unexpected '?>'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 149
+===========
+
+[2022-02-02 13:59:39] Текст Ошибки: syntax error, unexpected '?>'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 149
+===========
+
+[2022-02-02 13:59:50] Текст Ошибки: syntax error, unexpected '?>'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 149
+===========
+
+[2022-02-02 14:00:01] Текст Ошибки: syntax error, unexpected '?>'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 149
+===========
+
+[2022-02-02 14:01:23] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 14:03:51] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 14:49:49] Текст Ошибки: Expected array, string given.
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php
+Линия: 194
+===========
+
+[2022-02-02 14:57:57] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 15:34:13] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 15:34:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-02-02 16:48:19] Текст Ошибки: Expected array, boolean given.
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php
+Линия: 194
+===========
+
+[2022-02-02 16:49:57] Текст Ошибки: Expected array, boolean given.
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php
+Линия: 194
+===========
+
+[2022-04-11 19:43:05] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-04-14 21:08:42] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-04-14 21:10:28] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:21:01] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:22:05] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:22:14] Текст Ошибки: Контроллер app\controllers\CategoryController не найден
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-05-23 07:22:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:32:33] Текст Ошибки: syntax error, unexpected 'unset' (T_UNSET), expecting ';'
+Файл: C:\OpenServer\domains\bike-shop\app\controllers\ProductController.php
+Линия: 36
+===========
+
+[2022-05-23 07:36:07] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:36:37] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 07:51:05] Текст Ошибки: Контроллер app\controllers\CategoryController не найден
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-05-23 18:21:20] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-23 22:28:58] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-24 18:36:40] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 07:41:55] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 08:08:16] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:08:31] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:15:22] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:28:08] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:28:09] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:28:09] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:44:15] Текст Ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 08:46:26] Текст Ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''related_product' JOIN 'product' ON product.id = related_product.related_id WHER' at line 1
+Файл: C:\OpenServer\domains\bike-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php
+Линия: 206
+===========
+
+[2022-05-29 09:21:15] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:48:16] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:52:10] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:52:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:52:22] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:53:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:53:37] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:53:45] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-05-29 09:54:21] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-06-02 12:37:45] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-06-02 13:11:31] Текст Ошибки: syntax error, unexpected ')'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 78
+===========
+
+[2022-06-02 13:11:39] Текст Ошибки: syntax error, unexpected ')'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 78
+===========
+
+[2022-07-01 08:13:33] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-07-02 07:29:55] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-07-02 08:25:39] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-07-02 08:59:52] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bike-shop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-07-02 09:09:08] Текст Ошибки: syntax error, unexpected '}'
+Файл: C:\OpenServer\domains\bike-shop\app\views\Product\view.php
+Линия: 70
+===========
+

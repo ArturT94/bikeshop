@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "bikeshop\\": "vendor/bikeshop/core",
+      "app\\": "app"
+    }
+  },"require": {
+  "gabordemooij/redbean": "dev-master"
+}
+}
