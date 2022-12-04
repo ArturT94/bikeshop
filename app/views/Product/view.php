@@ -99,7 +99,8 @@
                                 <li><span>SKU</span>
                                     <span class="women1">: CK09</span></li>
                             </ul>
-                            <a href="/#" class="add-cart item_add">ADD TO CART</a>
+                            <input class="quantity" type="number" value="1">
+                            <a href="cart/add?id=<?=$product->id?>" class="add-cart item_add add-to-cart-link" data-id="<?=$product->id?>" id="productAdd">ADD TO CART</a>
 
                         </div>
                     </div>

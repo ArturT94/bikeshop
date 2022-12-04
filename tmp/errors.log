@@ -353,3 +353,533 @@
 Линия: 70
 ===========
 
+[2022-07-26 07:55:23] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-07-31 13:32:42] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-08-01 15:00:27] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-08-20 10:50:52] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-08-20 11:14:08] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-08-20 11:24:53] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 11:25:53] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 11:45:07] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-08-20 11:48:11] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 11:58:20] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:04:39] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:05:05] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:05:14] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:06:23] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:07:41] Текст Ошибки: Контроллер app\controllers\CartController не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 38
+===========
+
+[2022-08-20 12:11:03] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-08-20 12:11:15] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-08-20 12:41:21] Текст Ошибки: Cannot use object of type stdClass as array
+Файл: C:\OpenServer\domains\bikeshop\app\controllers\CartController.php
+Линия: 9
+===========
+
+[2022-08-20 13:09:06] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-09-16 02:02:47] Текст Ошибки: Нет соеденения с базой данных
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Db.php
+Линия: 20
+===========
+
+[2022-09-16 02:02:47] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:34:15] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:36:32] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:36:50] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:37:52] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:55:57] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:55:59] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:59:33] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 14:59:55] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:03:56] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:05:29] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:07:56] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:08:30] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:08:49] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:08:53] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:09:12] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:09:37] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:09:56] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:10:43] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:11:16] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:11:58] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:14:20] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:14:34] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:42:07] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:42:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:42:52] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 15:53:14] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 20:10:05] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 20:10:12] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 20:11:38] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 20:16:20] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:08:59] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:10:19] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:10:39] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:11:14] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:14:05] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:14:05] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:14:10] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:14:13] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:24:04] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:24:11] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:29:34] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:29:34] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:29:39] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:29:43] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:30:03] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:30:07] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:33:10] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:33:10] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:33:17] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:34:25] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:34:29] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:38:27] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:38:29] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:38:42] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:38:42] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:39:31] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:41:20] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:41:51] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:42:36] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:42:40] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:53:48] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:53:54] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:58:02] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:58:31] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:58:31] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:58:36] Текст Ошибки: Метод app\controllers\CartController::adAction не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 35
+===========
+
+[2022-12-04 21:58:45] Текст Ошибки: Метод app\controllers\CartController::adAction не найден
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 35
+===========
+
+[2022-12-04 21:58:45] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:59:09] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 21:59:58] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 21:59:59] Текст Ошибки: Такой вид не найден C:\OpenServer\domains\bikeshop/app/views/Cart/add.php
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\base\View.php
+Линия: 42
+===========
+
+[2022-12-04 22:00:14] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:01:09] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:01:47] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:02:31] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:03:00] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:03:11] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:03:46] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:04:33] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:05:07] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:05:35] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:05:57] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:06:35] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:07:29] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+
+[2022-12-04 22:08:58] Текст Ошибки: Страница не найдена
+Файл: C:\OpenServer\domains\bikeshop\vendor\bikeshop\core\Router.php
+Линия: 41
+===========
+

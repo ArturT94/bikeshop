@@ -57,7 +57,7 @@
                                     <h4 class="brand_title"><a
                                                 href="product/<?= $hit->alias; ?>"><?= $hit->title; ?></a></h4>
                                     <p>Explore Now</p>
-                                    <h4><a class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a>
+                                    <h4><a data-id="<?= $hit->id; ?>" class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a>
                                         <span class=" item_price"><?= $curr['simbol_left']; ?><?= floor($hit->price / $curr['value']); ?><?= $curr['simbol_right']; ?></span>
                                         <?php if ($hit->old_price): ?>
                                             <small>
