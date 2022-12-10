@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "Request_ID": "db76551d-5a02-489d-85e9-1b6c45b516f1",
+    "Data_Type": "PersonalAccount",
+    "Count_Master_Data": 1
+  },
+  "Body": {
+    "PersonalAccounts": [
+      {
+        "GUID": "9eb6e451-a000-4c40-b346-5615e0856e2d",
+        "Name": "БАРС ООО",
+        "ContactPerson": {
+          "GUID": "de2fa533-3ad9-11eb-b990-04d9f5ae0304",
+          "Name": "Ольга",
+          "Post": "",
+          "Birthday": "0001-01-01T00:00:00+00:00"
+        },
+        "FreeShipping": "false",
+        "FieldOfActivity": "Продажа инструментов",
+        "CompanySize": 1000,
+        "Address": "455034, Челябинская обл, Магнитогорск г, Жукова ул, дом xx",
+        "PostalCode": "",
+        "Website": "",
+        "email": "xxx@xxx.xxx",
+        "Phone": "(3519) 40-69-xx",
+        "INN": "74550185xx",
+        "KPP": "7455010xx",
+        "OGRN": "",
+        "BankAccount": {
+          "BIK": "047501602",
+          "Account": "40702810972000006200"
+        },
+        "Customers": [
+          {
+            "GUID": "d2ef78e4-7e5f-11ea-b97f-04d9f5ae0304",
+            "Name": "БАРС ООО",
+            "INN": "74550185xx",
+            "KPP": "7455010xx",
+            "MAIN": true,
+            "Manager": {
+              "name": "Комаров Иван",
+              "email": "xxx@xxx.xxx",
+              "phone": ""
+            },
+            "ClientObject": [
+              {
+                "GUID": "de2fa533-3ad9-11eb-b990-04d9f5ae0304",
+                "Name": "ЖК Императорские Мытищи",
+                "Adress": "Тенистый бульвар 19",
+                "ContactPersons": [
+                  {
+                    "GUID": "79ad8c9e-e3be-11eb-b9a8-04d9f5ae0304",
+                    "Name": "Комаров Иван",
+                    "Phone": "911",
+                    "Email": "xxx@xxx.xxx"
+                  }
+                ]
+              }
+            ],
+            "ContactPerson": {
+              "GUID": "79ad8c9e-e3be-11eb-b9a8-04d9f5ae0304",
+              "Name": "Комаров Иван",
+              "Phone": "911",
+              "Email": "xxx@xxx.xxx"
+            }
+          }
+        ],
+        "Indicators": [
+          {
+            "Name": "Выдано подмен",
+            "GUID": "fb37c489-13f1-11ec-b9ac-04d9f5ae0304"
+          },
+          {
+            "Name": "Дата первого заказа",
+            "GUID": "fb37c48a-13f1-11ec-b9ac-04d9f5ae0304"
+          },
+          {
+            "Name": "Доля инструментов",
+            "GUID": "967b4e54-489c-11ec-b9b5-04d9f5ae0304"
+          }
+        ]
+      }
+    ]
+  }
+}

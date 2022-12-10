@@ -10,13 +10,18 @@ $('body').on('click', '.add-to-cart-link', function (e) {
         data: jsonCode,
         type: 'GET',
         success: function (res) {
-            console.log(res);
+            showCart(res);
         },
         error: function () {
             alert('Что-то пошло не так попробуйте перезагрузить страницу');
         }
     });
 })
+
+function showCart(cart){
+    $('#card .modal-dialog .modal-content .modal-body').html(cart);
+    $('#card').modal();
+}
 /*Cart*/
 
 $('#currency').change(function() {
@@ -27,10 +32,11 @@ $('.available select').on('change', function () {
     let ModeId = $(this).val(),
         color = $(this).find('option').filter(':selected').data('title'),
         price = $(this).find('option').filter(':selected').data('price'),
-        basePrice = $('#base-price').data('base');
+        basePrice = $('#base-price').data('base'),
+        baseOldPrice = $('#base-price').data('old');
         if(price){
             $('#base-price').text(simboleLeft+price+simboleRight);
         }else {
-            $('#base-price').text(simboleLeft+basePrice+simboleRight);
+            $('#base-price').html(simboleLeft+basePrice+simboleRight+" <small><del>"+simboleLeft+baseOldPrice+simboleRight+"</del>");
         }
 });

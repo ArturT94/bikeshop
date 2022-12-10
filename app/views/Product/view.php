@@ -66,11 +66,11 @@
                         <?php $curr = \bikeshop\App::$app->getProperty('currency');
                                 $cats = \bikeshop\App::$app->getProperty('cats');
                         ?>
-                            <h5 class="item_price" id="base-price" data-base="<?= floor($product->price / $curr['value']); ?>"><?= $curr['simbol_left']; ?><?= floor($product->price / $curr['value']); ?><?= $curr['simbol_right']; ?>
+                            <h5 class="item_price" id="base-price" data-base="<?= floor($product->price / $curr['value']); ?>" data-old="<?= floor($product->old_price / $curr['value']); ?>"><?= $curr['simbol_left']; ?><?= floor($product->price / $curr['value']); ?><?= $curr['simbol_right']; ?>
                                 <?php if ($product->old_price): ?>
-                                    <small>
-                                        <?= $curr['simbol_left']; ?><del><?= floor($product->old_price / $curr['value']); ?></del><?= $curr['simbol_right']; ?>
-                                    </small>
+                                    <small><del>
+                                        <?= $curr['simbol_left']; ?><?= floor($product->old_price / $curr['value']); ?><?= $curr['simbol_right']; ?>
+                                        </del>  </small>
                                 <?php endif; ?>
                             </h5>
                             <p><?= $product->description; ?></p>
@@ -100,7 +100,7 @@
                                     <span class="women1">: CK09</span></li>
                             </ul>
                             <input class="quantity" type="number" value="1">
-                            <a href="cart/add?id=<?=$product->id?>" class="add-cart item_add add-to-cart-link" data-id="<?=$product->id?>" id="productAdd">ADD TO CART</a>
+                            <a href="cart/add?id=<?=$product->id?>" class="add-cart item_add add-to-cart-link" data-id="<?=$product->id?>" id="productAdd">Добавить в корзину</a>
 
                         </div>
                     </div>
