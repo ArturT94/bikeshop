@@ -9,6 +9,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="a8561a8a-34c1-438e-9b8d-38b1f0b2cf9d" name="tskorkog.beget.tech" url="http://tskorkog.beget.tech">
+        <fileTransfer host="tskorkog.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

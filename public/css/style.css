@@ -3078,3 +3078,10 @@ ul.tag-men {
 .modal-body tbody img{
 	height: 100px;
 }
+
+.glyphicon-remove{
+	cursor: pointer;
+}
+.del-item{
+	cursor: pointer;
+}

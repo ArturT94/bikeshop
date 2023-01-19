@@ -16,11 +16,44 @@ $('body').on('click', '.add-to-cart-link', function (e) {
             alert('Что-то пошло не так попробуйте перезагрузить страницу');
         }
     });
-})
+});
+
+$('#card .modal-body').on('click', '.del-item', function () {
+    let id = $(this).data('id');
+    $.ajax({
+        url: '/cart/delete',
+        data: {'id':id},
+        type: 'GET',
+        success: function (res) {
+            showCart(res);
+        },
+        error: function () {
+            alert('Произошла ошибка, попробуйте позже.');
+        }
+    });
+});
 
 function showCart(cart){
     $('#card .modal-dialog .modal-content .modal-body').html(cart);
     $('#card').modal();
+    if($('#changeCartPrice').text()){
+        $('.simpleCart_total').text($('#changeCartPrice').text());
+    }else{
+        $('.simpleCart_total').text('Корзина пуста');
+    }
+}
+
+function getCart(){
+    $.ajax({
+        url: 'cart/show',
+        type: 'GET',
+        success: function(res) {
+            showCart(res);
+        },
+        error: function() {
+            alert("Ошибка! Попробуйте позже");
+        }
+    });
 }
 /*Cart*/
 

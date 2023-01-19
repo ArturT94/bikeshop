@@ -9,13 +9,6 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="LinarTestServer">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="alikson.ru">
         <serverdata>
           <mappings>
@@ -37,6 +30,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="it-director">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="localhost">
         <serverdata>
           <mappings>
@@ -51,7 +51,7 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="serverDmitriy">
+      <paths name="okna-peter.ru">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -65,6 +65,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="testSServerOkna">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="thevalet">
         <serverdata>
           <mappings>
@@ -72,7 +79,21 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="tskorkog.beget.tech">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="u-me">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="urovenservis.ru">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

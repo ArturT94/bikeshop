@@ -41,13 +41,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="col-md-6 top-header-left">
                 <div class="cart box_1">
-                    <a href="checkout.html">
+                    <a href="cart/show" onclick="getCart(); return false;">
                         <div class="total">
-                            <span class="simpleCart_total"></span></div>
-                        <img src="images/cart-1.png" alt="" />
+                            <img src="images/cart-1.png" alt="" />
+                        <?php if(!empty($_SESSION['cart.product'])): ?>
+                            <span class="simpleCart_total">
+                                <?= $_SESSION['cart.currency']['simbol_left'] .  $_SESSION['cart.sum'] . $_SESSION['cart.currency']['simbol_right']; ?>
+                            </span>
+                        <?php else: ?>
+                                <span class="simpleCart_total">
+                                Корзина пуста
+                            </span>
+                        <?php endif; ?>
+                            </div>
                     </a>
-                    <p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
-                    <div class="clearfix"> </div>
+<!--                    <a href="checkout.html">-->
+<!--                        <div class="total">-->
+<!--                            <span class="simpleCart_total"></span></div>-->
+<!--                        <img src="images/cart-1.png" alt="" />-->
+<!--                    </a>-->
+<!--                    <p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>-->
+<!--                    <div class="clearfix"> </div>-->
                 </div>
             </div>
             <div class="clearfix"></div>
@@ -166,8 +180,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Продолжить покупки</button>
+                <?php if(!empty($_SESSION['cart.product'])): ?>
                 <a href="cart/view" type="button" class="btn btn-primary">Оформить заказ</a>
                 <button type="button" class="btn btn-danger" onclick="clearCart()">Очистить</button>
+                <?php endif; ?>
             </div>
         </div>
     </div>
